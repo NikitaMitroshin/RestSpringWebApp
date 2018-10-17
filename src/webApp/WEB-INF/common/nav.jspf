@@ -1,0 +1,8 @@
+<nav>
+    <div class="menu">
+        <ul>
+            <li class="menu-item">Your profile</li>
+            <li class="menu-item">Logout</li>
+        </ul>
+    </div>
+</nav>
